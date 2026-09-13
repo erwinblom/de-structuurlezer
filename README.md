@@ -1,3 +1,7 @@
+> **Verhuisd naar Open-source AI Skills NL.** Deze losse repository is gearchiveerd en wordt niet meer bijgewerkt. Gebruik voortaan [de actuele skill](https://github.com/erwinblom/open-ai-skills-nl/tree/main/skills/tekstploeg/de-structuurlezer).
+>
+> De oorspronkelijke instructies, voorbeelden en versiegeschiedenis blijven hier beschikbaar. De nieuwe versie is inhoudelijk vergeleken, maar is niet in alle werkwijzen identiek. Zie [de vergelijking en migratiekeuzes](MIGRATIE.md).
+
 # De Structuurlezer
 
 > Vind waar je tekst van zijn eigen lijn afwijkt.
